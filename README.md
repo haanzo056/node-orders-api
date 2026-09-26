@@ -1,5 +1,7 @@
 # node-orders-api
 
+[![CI](https://github.com/haanzo056/node-orders-api/actions/workflows/ci.yml/badge.svg)](https://github.com/haanzo056/node-orders-api/actions/workflows/ci.yml) ![TypeScript](https://img.shields.io/badge/TypeScript-strict-3178C6?logo=typescript&logoColor=white) ![License](https://img.shields.io/github/license/haanzo056/node-orders-api)
+
 Backend for the orders/checkout part of a small shop. Customers create orders against
 a product catalog, pay through a Stripe-style provider, and get a confirmation email
 once the payment webhook comes in.
